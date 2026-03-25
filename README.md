@@ -1,3 +1,5 @@
+** THIS PROJECT HAS BEEN ARCHIVED **
+
 # <img src="https://github.com/unosquare/swan/raw/master/swan-logo-32.png"></img> SWAN: Stuff We All Need (Unosquare's collection of C# extension methods and classes)
 
 *:star: Please star this project if you find it useful!*
